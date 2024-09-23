@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS || "255734980103"
+const ownervb = process.env.OWNERS || "94782543893"
 
 
 const ownerlist = ownervb.split(';');
@@ -23,9 +23,9 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['255734980103', '255758868502']
-global.prems = ['255734980103', '255758868502', '255734980103']
-global.allowed = ['255734980103', '255734980103']
+global.mods = ['94782543893']
+global.prems = ['94782543893']
+global.allowed = ['94782543893']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -42,7 +42,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.fgcanal = 'https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x'
+global.fgcanal = 'https://wa.me/qr/P6WADRJOKAFUK1'
 
 
 global.APIs = {
@@ -79,9 +79,9 @@ global.author = '𝙡𝙖𝙯𝙖𝙘𝙠'
 global.menuvid = ''
 global.igfg = ''
 global.dygp = ''
-global.fgsc = 'https://github.com/Lazack28/Lazack-Device'
-global.fgyt = 'https://youtube.com/@lazaromtaju'
-global.fgpyp = 'https://youtube.com/@lazaromtaju'
+global.fgsc = 'https://wa.me/qr/P6WADRJOKAFUK1'
+global.fgyt = 'https://wa.me/qr/P6WADRJOKAFUK1'
+global.fgpyp = 'https://wa.me/qr/P6WADRJOKAFUK1'
 global.fglog = ''
 global.thumb = fs.readFileSync('./jusorts/lazack.jpg')
 
