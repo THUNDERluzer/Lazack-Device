@@ -2,9 +2,9 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   // Sound
   let name = m.pushName || conn.getName(m.sender)
   var vn = 'https://cdn.jsdelivr.net/gh/Lazack28/Lazack-md@main/media/Alive.mp3'
-  let url = 'https://github.com/Lazack28/Lazack-md'
-  let murl = 'https://youtu.be/3j_EIP--2t8?si=4TFWV0On6Bl1wr-e'
-  let img = 'https://i.imgur.com/QMyKIPq.jpeg'
+  let url = 'https://wa.me/qr/P6WADRJOKAFUK1'
+  let murl = 'https://wa.me/qr/P6WADRJOKAFUK1'
+  let img = 'https://telegra.ph/file/7721cf222f9790f3fcd1b.jpg'
   let con = {
     key: {
       fromMe: false,
